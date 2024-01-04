@@ -1,9 +1,9 @@
-# AMy Latest Portfolio Website showcasing my mastery of 
+# My Latest Portfolio Website showcasing my mastery of 
 ### - HTMl
 ### - CSS
-### - Javascript
+### - Javascript  return
 
 
-### - Discover me
-### - check out my Projects
-### - Reach Out to me using the fully functional Contact form
+### - **Discover me**
+### - **Check out my Projects**
+### - **Reach Out to me using the fully functional Contact form**
