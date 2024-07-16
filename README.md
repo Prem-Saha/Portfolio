@@ -11,6 +11,6 @@ Welcome to my portfolio website repository! This project showcases my skills in 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
--Frontend: HTML, CSS, JavaScript
--Frameworks/Libraries: Bootstrap
--Deployment: GitHub Pages
+- Frontend: HTML, CSS, JavaScript
+- Frameworks/Libraries: Bootstrap
+- Deployment: GitHub Pages
