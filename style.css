@@ -449,15 +449,7 @@ section .title::after {
     background: #0093E9;
 }
 
-.skills-content .right .java::before {
-    width: 80%;
-}
-
-.skills-content .right .csp::before {
-    width: 50%;
-}
-
-.skills-content .right .html::before {
+.skills-content .right .web::before {
     width: 100%;
 }
 
@@ -465,11 +457,27 @@ section .title::after {
     width: 90%;
 }
 
-.skills-content .right .js::before {
+.skills-content .right .renjs::before {
     width: 70%;
 }
 
-.skills-content .right .rjs::before {
+.skills-content .right .db::before {
+    width: 60%;
+}
+
+.skills-content .right .ml::before {
+    width: 60%;
+}
+
+.skills-content .right .prog::before {
+    width: 80%;
+}
+
+.skills-content .right .csp::before {
+    width: 50%;
+}
+
+.skills-content .right .saas::before {
     width: 70%;
 }
 
@@ -477,9 +485,6 @@ section .title::after {
     width: 80%;
 }
 
-.skills-content .right .sql::before {
-    width: 60%;
-}
 
 /* project section styling */
 .projects .title::after {
